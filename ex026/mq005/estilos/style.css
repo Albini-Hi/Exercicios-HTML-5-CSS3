@@ -16,6 +16,7 @@ header {
 }
 
 header > h1 {
+    color: white;
     padding: 10px;
     text-align: center;
 }
@@ -72,4 +73,11 @@ article > p {
     text-align: justify;
     margin-bottom: 20px;
     text-indent: 20px;
+}
+
+footer {
+    color: rgba(43, 141, 226, 0.8);
+    font-size: 0.9em;
+    padding: 10px;
+    text-align: center;
 }
